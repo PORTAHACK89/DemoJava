@@ -21,3 +21,4 @@ public class EjemploScanner {
         sc.close(); // cierra la funcionalidad de Scanner
     }
 }
+
